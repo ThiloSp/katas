@@ -6,6 +6,6 @@
 #### Rank - 7 kyu / Score - 61
 
 ## :chart_with_upwards_trend: Stats
-### :trophy: Leaderboard Position - 184104
+### :trophy: Leaderboard Position - 184105
 ### :pencil2: Authored Challenges - 0
 ### :muscle: Completed Challenges - 19
