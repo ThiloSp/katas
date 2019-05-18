@@ -3,9 +3,9 @@
 ### :wolf: Clan: null
 ## :zap: Skills
 ### javascript
-#### Rank - 5 kyu / Score - 250
+#### Rank - 5 kyu / Score - 258
 
 ## :chart_with_upwards_trend: Stats
-### :trophy: Leaderboard Position - 45435
+### :trophy: Leaderboard Position - 43803
 ### :pencil2: Authored Challenges - 0
-### :muscle: Completed Challenges - 48
+### :muscle: Completed Challenges - 49
